@@ -111,3 +111,5 @@ function gerarPaleta() {
 
 
 }
+
+//fim
