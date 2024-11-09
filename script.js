@@ -3,6 +3,7 @@ let corPrincipal;
 let corSecundaria;
 let espacamento;
 
+
 function trocarTudo() {
     listaHexaCor = combinacoHexa();
     corPrincipal = sortearCorPrincipal();
